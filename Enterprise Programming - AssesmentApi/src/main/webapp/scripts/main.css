@@ -1,0 +1,26 @@
+.navbar {
+
+	
+	color: white;
+    font-size: 18px;
+
+ }
+
+.table {
+	
+	margin-left: auto;
+  	margin-right: auto;
+	width:1145px;
+
+ }
+
+.card{
+	
+	display: true;
+	margin-left: auto;
+  	margin-right: auto;
+	width:500px;
+}
+p{
+	text-align: center;
+}
